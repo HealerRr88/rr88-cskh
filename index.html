@@ -152,6 +152,19 @@
     </div>
   </div>
   <script src="./logic.js"></script>
+  <script>
+    document.querySelector('.back-home').addEventListener('click', function (e) {
+      e.preventDefault();
+      let userAgent = navigator.userAgent || navigator.vendor || window.opera;
+      if (/Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(userAgent)) {
+        window.location.href = 'https://mb-rr88-link.rr88tino.workers.dev/';
+        return;
+      }
+      else {
+        window.location.href = 'https://pc-rr88-link.rr88tino.workers.dev/';
+      }
+    });
+  </script>
 </body>
 
 </html>
