@@ -1,0 +1,29 @@
+.header {
+  height: 77px;
+}
+
+.logo {
+  width: 227px;
+}
+
+.headerBtn {
+  width: 170px;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    height: 38px;
+  }
+
+  .headerInner {
+    width: 100%;
+  }
+
+  .logo {
+    width: 35%;
+  }
+
+  .headerBtn {
+    width: 40%;
+  }
+}
