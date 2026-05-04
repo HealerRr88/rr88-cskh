@@ -10,7 +10,8 @@ export const LINK_KEYS = {
   THIEN_NGUYEN: 'thien-nguyen',
   VIDEO: 'video',
   QUA_TANG: 'qua-tang',
-  MA_DU_THUONG: 'ma-du-thuong',
+  //MA_DU_THUONG: 'ma-du-thuong',
+  PHIM_18: 'phim-18',
   LIVESTREAM: 'livestream',
   NHAP_CODE: 'nhap-code',
   LINK_TOC_DO_CAO: 'link-toc-do-cao',
@@ -54,7 +55,7 @@ export const DEFAULT_LINKS = [
     device: LINK_DEVICES.ALL
   },
   {
-    key: LINK_KEYS.MA_DU_THUONG,
+    key: LINK_KEYS.PHIM_18,
     url: '#',
     device: LINK_DEVICES.ALL
   },

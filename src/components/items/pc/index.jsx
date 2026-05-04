@@ -1,6 +1,7 @@
 import nhap_code_item_img from "../../../assets/images/nhap-code-item.gif";
 import livestream_item_img from "../../../assets/images/livestream-item.gif";
-import ma_du_thuong_item_img from "../../../assets/images/ma-du-thuong-item.gif";
+//import ma_du_thuong_item_img from "../../../assets/images/ma-du-thuong-item.gif";
+import ma_du_thuong_item_img from "../../../assets/images/phim-18-item.png";
 import qua_tang_item_img from "../../../assets/images/qua-tang-item.gif";
 import video_item_img from "../../../assets/images/video-item.gif";
 import thien_nguyen_item_img from "../../../assets/images/thien-nguyen-item.gif";
@@ -43,9 +44,8 @@ export default function PCItemsComponent({ links }) {
           <div className="w-100 h-100 position-absolute start-0 top-0 d-flex justify-content-center align-items-center">
             <img className="col-8" src={ma_du_thuong_item_img} alt="ma_du_thuong_item_img" />
           </div>
-          <Link to={getLinkByKey(links, LINK_KEYS.MA_DU_THUONG, isMobile)} className={`w-100 h-100 position-absolute start-0 top-0 rounded-circle justify-content-center align-items-center flex-column ${styles.itemHover}`}>
-            <div className="text-white fw-bold">MÃ</div>
-            <div className="text-white fw-bold">DỰ THƯỞNG</div>
+          <Link to={getLinkByKey(links, LINK_KEYS.PHIM_18, isMobile)} className={`w-100 h-100 position-absolute start-0 top-0 rounded-circle justify-content-center align-items-center flex-column ${styles.itemHover}`}>
+            <div className="text-white fw-bold">PHIM 18+</div>
           </Link>
         </div>
       </div>

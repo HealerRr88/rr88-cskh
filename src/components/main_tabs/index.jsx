@@ -111,7 +111,7 @@ export default function MainTabsComponent({ links }) {
       </div>
       {
         loading ? (
-          <div style={{ height: isMobile ? 143 : 265 }} className="w-100">
+          <div style={{ height: isMobile ? 179 : 265 }} className="w-100">
             <ComponentLoading />
           </div>
         ) : (
