@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e9a8d88e.css",
-    "main.js": "/static/js/main.60c0eb77.js",
-    "static/css/870.ee0a1aa1.chunk.css": "/static/css/870.ee0a1aa1.chunk.css",
-    "static/js/870.e315e30f.chunk.js": "/static/js/870.e315e30f.chunk.js",
+    "main.js": "/static/js/main.7919b59d.js",
+    "static/css/687.e4610d14.chunk.css": "/static/css/687.e4610d14.chunk.css",
+    "static/js/687.3759e6f7.chunk.js": "/static/js/687.3759e6f7.chunk.js",
     "static/js/956.7f2b848b.chunk.js": "/static/js/956.7f2b848b.chunk.js",
-    "static/js/502.ff1d2de9.chunk.js": "/static/js/502.ff1d2de9.chunk.js",
+    "static/js/314.0001b075.chunk.js": "/static/js/314.0001b075.chunk.js",
     "static/media/nhap-code-item.gif": "/static/media/nhap-code-item.58eec37211b1d9ef17c3.gif",
     "static/media/livestream-item.gif": "/static/media/livestream-item.9f0551ff3b76ed7f3958.gif",
     "static/media/qua-tang-item.gif": "/static/media/qua-tang-item.f865220cfce6b9409748.gif",
@@ -72,14 +72,14 @@
     "static/media/three-dots.svg": "/static/media/three-dots.9f216521ebbae8717b48ebf325a80cc6.svg",
     "index.html": "/index.html",
     "main.e9a8d88e.css.map": "/static/css/main.e9a8d88e.css.map",
-    "main.60c0eb77.js.map": "/static/js/main.60c0eb77.js.map",
-    "870.ee0a1aa1.chunk.css.map": "/static/css/870.ee0a1aa1.chunk.css.map",
-    "870.e315e30f.chunk.js.map": "/static/js/870.e315e30f.chunk.js.map",
+    "main.7919b59d.js.map": "/static/js/main.7919b59d.js.map",
+    "687.e4610d14.chunk.css.map": "/static/css/687.e4610d14.chunk.css.map",
+    "687.3759e6f7.chunk.js.map": "/static/js/687.3759e6f7.chunk.js.map",
     "956.7f2b848b.chunk.js.map": "/static/js/956.7f2b848b.chunk.js.map",
-    "502.ff1d2de9.chunk.js.map": "/static/js/502.ff1d2de9.chunk.js.map"
+    "314.0001b075.chunk.js.map": "/static/js/314.0001b075.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a8d88e.css",
-    "static/js/main.60c0eb77.js"
+    "static/js/main.7919b59d.js"
   ]
 }
