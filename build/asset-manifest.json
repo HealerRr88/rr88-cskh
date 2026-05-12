@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.e9a8d88e.css",
-    "main.js": "/static/js/main.7919b59d.js",
+    "main.js": "/static/js/main.9217fe2d.js",
     "static/css/687.e4610d14.chunk.css": "/static/css/687.e4610d14.chunk.css",
-    "static/js/687.3759e6f7.chunk.js": "/static/js/687.3759e6f7.chunk.js",
+    "static/js/687.d90aa049.chunk.js": "/static/js/687.d90aa049.chunk.js",
     "static/js/956.7f2b848b.chunk.js": "/static/js/956.7f2b848b.chunk.js",
     "static/js/314.0001b075.chunk.js": "/static/js/314.0001b075.chunk.js",
     "static/media/nhap-code-item.gif": "/static/media/nhap-code-item.58eec37211b1d9ef17c3.gif",
@@ -29,6 +29,7 @@
     "static/media/tab-2-active.png": "/static/media/tab-2-active.b7eb14a7d8f5dfc92da8.png",
     "static/media/khuyen-mai.png": "/static/media/khuyen-mai.c34d7db7022c351c3552.png",
     "static/media/qua-tang-tri-an-mb.png": "/static/media/qua-tang-tri-an-mb.292653865b46d6a81f41.png",
+    "static/media/hotline-mb.png": "/static/media/hotline-mb.f7ec2aef056e6839bafc.png",
     "static/media/link-toc-do-cao-mb.png": "/static/media/link-toc-do-cao-mb.b9339468cba04aef8b7b.png",
     "static/media/qua-tang-tri-an.png": "/static/media/qua-tang-tri-an.e8235d3672b3d0143164.png",
     "static/media/ho-tro-rut-tien-mb.png": "/static/media/ho-tro-rut-tien-mb.c192c114a413046a2b64.png",
@@ -38,6 +39,7 @@
     "static/media/thay-doi-thong-tin-mb.png": "/static/media/thay-doi-thong-tin-mb.77231f1575b155a1c9c8.png",
     "static/media/link-toc-do-cao.png": "/static/media/link-toc-do-cao.2dd191d0a4fc304f2598.png",
     "static/media/ho-tro-nap-tien-mb.png": "/static/media/ho-tro-nap-tien-mb.72bc02b52e151405eeb5.png",
+    "static/media/hotline.png": "/static/media/hotline.4e3a2d8be341b53ca599.png",
     "static/media/ho-tro-rut-tien.png": "/static/media/ho-tro-rut-tien.7e2e5fa20a6312216cbb.png",
     "static/media/sua-doi-thong-tin.png": "/static/media/sua-doi-thong-tin.00645d02ff47955a966d.png",
     "static/media/khuyen-mai-va-san-pham.png": "/static/media/khuyen-mai-va-san-pham.18865957d460fd1f4a0d.png",
@@ -45,9 +47,7 @@
     "static/media/fanpage-mb.png": "/static/media/fanpage-mb.fd0a0d35b16de9eefb74.png",
     "static/media/trung-tam-khuyen-mai.png": "/static/media/trung-tam-khuyen-mai.86f549a3e5608a680c47.png",
     "static/media/ho-tro-nap-tien.png": "/static/media/ho-tro-nap-tien.1a1d33dedd0aab593ed7.png",
-    "static/media/hotline-mb.png": "/static/media/hotline-mb.efac3efafb7c59e4a6bd.png",
     "static/media/fanpage.png": "/static/media/fanpage.544a0c36e8c8085d9130.png",
-    "static/media/hotline.png": "/static/media/hotline.3e2448dcb03670cffd30.png",
     "static/media/nen-tang-livestream-mb.png": "/static/media/nen-tang-livestream-mb.0a8541d07f80d94438cf.png",
     "static/media/nen-tang-livestream.png": "/static/media/nen-tang-livestream.108bdaceb859fa360170.png",
     "static/media/kenh-tiktok-mb.png": "/static/media/kenh-tiktok-mb.358550953773e2c32cc7.png",
@@ -72,14 +72,14 @@
     "static/media/three-dots.svg": "/static/media/three-dots.9f216521ebbae8717b48ebf325a80cc6.svg",
     "index.html": "/index.html",
     "main.e9a8d88e.css.map": "/static/css/main.e9a8d88e.css.map",
-    "main.7919b59d.js.map": "/static/js/main.7919b59d.js.map",
+    "main.9217fe2d.js.map": "/static/js/main.9217fe2d.js.map",
     "687.e4610d14.chunk.css.map": "/static/css/687.e4610d14.chunk.css.map",
-    "687.3759e6f7.chunk.js.map": "/static/js/687.3759e6f7.chunk.js.map",
+    "687.d90aa049.chunk.js.map": "/static/js/687.d90aa049.chunk.js.map",
     "956.7f2b848b.chunk.js.map": "/static/js/956.7f2b848b.chunk.js.map",
     "314.0001b075.chunk.js.map": "/static/js/314.0001b075.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a8d88e.css",
-    "static/js/main.7919b59d.js"
+    "static/js/main.9217fe2d.js"
   ]
 }
