@@ -25,12 +25,15 @@ export default function PCPage({ links, gifs }) {
 
   return (
     <>
-      <div className="position-relative">
+      <div className="position-relative overflow-hidden">
         <Player
           autoplay
           loop
           src={backgroundLottie}
           className={`${styles.background}`}
+          rendererSettings={{
+            preserveAspectRatio: 'xMidYMid slice',
+          }}
         />
         <HeaderComponent
           links={links}

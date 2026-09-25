@@ -1,5 +1,5 @@
 import styles from "./style.module.css";
-import logo_img from "../../assets/images/logo.png";
+import logo_img from "../../assets/images/mainlgorr88.png";
 import home_btn_img from "../../assets/images/home-btn.png";
 import login_btn_img from "../../assets/images/login-btn.png";
 import { Link } from "react-router-dom";
