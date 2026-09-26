@@ -39,8 +39,8 @@ import qua_tang_tri_an_img from "../../assets/images/qua-tang-tri-an.png";
 import qua_tang_tri_an_mb_img from "../../assets/images/qua-tang-tri-an-mb.png";
 import thay_doi_thong_tin_img from "../../assets/images/thay-doi-thong-tin.png";
 import thay_doi_thong_tin_mb_img from "../../assets/images/thay-doi-thong-tin-mb.png";
-import telegram_khieu_nai_img from "../../assets/images/telegram-khieu-nai.png";
-import telegram_khieu_nai_mb_img from "../../assets/images/telegram-khieu-nai-mb.png";
+import telegram_khieu_nai_img from "../../assets/images/khieu-nai.png";
+import telegram_khieu_nai_mb_img from "../../assets/images/khieu-nai.png";
 
 import nen_tang_livestream_img from "../../assets/images/nen-tang-livestream.png";
 import nen_tang_livestream_mb_img from "../../assets/images/nen-tang-livestream-mb.png";
@@ -134,8 +134,8 @@ export default function MainTabsComponent({ links }) {
                   <Link to={getLinkByKey(links, LINK_KEYS.TRUNG_TAM_KHUYEN_MAI, isMobile)} className="col-4">
                     <img className="w-100" src={isMobile ? trung_tam_khuyen_mai_mb_img : trung_tam_khuyen_mai_img} alt="trung_tam_khuyen_mai_img" />
                   </Link>
-                  <Link to={getLinkByKey(links, LINK_KEYS.CAM_NANG_HUONG_DAN, isMobile)} className="col-4">
-                    <img className="w-100" src={isMobile ? cam_nang_huong_dan_mb_img : cam_nang_huong_dan_img} alt="cam_nang_huong_dan_img" />
+                  <Link to={getLinkByKey(links, LINK_KEYS.TELEGRAM_KHIEU_NAI, isMobile)} className="col-4">
+                    <img className="w-100" src={isMobile ? telegram_khieu_nai_mb_img : telegram_khieu_nai_img} alt="telegram_khieu_nai_img" />
                   </Link>
                 </div>
               )
@@ -158,8 +158,8 @@ export default function MainTabsComponent({ links }) {
                   <Link to={getLinkByKey(links, LINK_KEYS.THAY_DOI_THONG_TIN, isMobile)} className="col-4">
                     <img className="w-100" src={isMobile ? thay_doi_thong_tin_mb_img : thay_doi_thong_tin_img} alt="thay_doi_thong_tin_img" />
                   </Link>
-                  <Link to={getLinkByKey(links, LINK_KEYS.TELEGRAM_KHIEU_NAI, isMobile)} className="col-4">
-                    <img className="w-100" src={isMobile ? telegram_khieu_nai_mb_img : telegram_khieu_nai_img} alt="telegram_khieu_nai_img" />
+                  <Link to={getLinkByKey(links, LINK_KEYS.CAM_NANG_HUONG_DAN, isMobile)} className="col-4">
+                    <img className="w-100" src={isMobile ? cam_nang_huong_dan_mb_img : cam_nang_huong_dan_img} alt="cam_nang_huong_dan_img" />
                   </Link>
                 </div>
               )
